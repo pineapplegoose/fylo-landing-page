@@ -489,6 +489,19 @@ footer{
     .featurescontainer{
         grid-template-columns: auto;
     }
+    
+    .features{
+        width: 90vw;
+        margin: auto;
+        padding: 10px;
+        border: solid red;
+    }
+    .features-text h2{
+        width: 80vw;
+        margin: auto;
+        margin-bottom: 20px;
+        font-size: 23px;
+    }
     .feature2{
         width: 80vw;
         flex-direction: column;
